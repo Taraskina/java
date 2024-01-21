@@ -1,0 +1,9 @@
+@startuml
+People <|-- Little
+People <|-- Mom
+People <|-- Bok
+abstract class People{
+
+}
+
+@enduml
